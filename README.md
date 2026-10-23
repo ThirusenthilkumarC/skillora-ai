@@ -1,4 +1,4 @@
-✨ Skillora AI
+🔥Skillora AI
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Discover+Your+Skill+Gaps;Build+Your+Dream+Career;Learn+Smarter+with+AI;Turn+Skills+into+Opportunities" alt="Animated Skillora AI introduction" />🚀 Discover Your Skill Gaps. Build Your Future.
 
