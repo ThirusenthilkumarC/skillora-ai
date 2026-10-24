@@ -1,0 +1,21 @@
+{
+  "name": "skillora-ai-workspace",
+  "version": "1.0.0",
+  "description": "Skillora AI - AI-Powered Career Intelligence & Skill Gap Analysis Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm run start",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [
+    "career-intelligence",
+    "skill-gap-analysis",
+    "ai",
+    "learning-roadmap",
+    "resume-parser"
+  ],
+  "author": "Skillora AI Team",
+  "license": "MIT"
+}
